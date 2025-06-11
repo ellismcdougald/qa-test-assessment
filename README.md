@@ -10,6 +10,13 @@ This is my submission for the technical assessment for the Co-Op Automation Test
 - [Maven](https://maven.apache.org/install.html)
 - Google Chrome
 
+## Clone the Repo
+
+```bash
+git clone https://github.com/ellismcdougald/qa-test-assessment.git
+cd qa-test-assessment
+```
+
 ## Run Tests
 
 To run all the tests, use:
